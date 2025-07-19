@@ -1,5 +1,7 @@
 {
     "rust-analyzer.linkedProjects": [
         "./clients/cli/Cargo.toml"
-    ]
+    ],
+    "editor.defaultFormatter": "GitHub.copilot",
+    "editor.wordWrap": "on"
 }
